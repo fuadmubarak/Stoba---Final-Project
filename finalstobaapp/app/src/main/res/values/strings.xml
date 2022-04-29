@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">finalstobaapp</string>
+
+    <string-array name="item">
+        <item>food</item>
+        <item>baverage</item>
+        <item>fashion</item>
+        <item>medicine</item>
+        <item>electronic</item>
+        <item>home supply </item>
+        <item>material</item>
+        <item>stationery</item>
+        <item>automotive</item>
+        <item>tools</item>
+    </string-array>
+
+</resources>

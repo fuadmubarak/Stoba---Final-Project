@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "54772740400",
+    "project_id": "finalstobaapp",
+    "storage_bucket": "finalstobaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54772740400:android:cf484bfe40d2143e2358f5",
+        "android_client_info": {
+          "package_name": "com.google.finalstobaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54772740400-kovf096rsl5hnmieoe3dkg0t78nuqiee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.finalstobaapp",
+            "certificate_hash": "3c79194ea401becca746ec16fddd3745c2322401"
+          }
+        },
+        {
+          "client_id": "54772740400-38jiq4p01uq1n9cmrod5pqqg1q7ru6ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLU-WO3HRVGeSR0pfDkFg0KdXUi8ZJpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54772740400-38jiq4p01uq1n9cmrod5pqqg1q7ru6ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

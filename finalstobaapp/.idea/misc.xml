@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/btnblue.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/btnorange.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/catedge.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/custom_login_text.xml" value="0.1" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/customedge.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/edittextedge.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/etedge.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_addcart.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.1" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_btn.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_delchart.xml" value="0.26205128205128203" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_ds0.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_ds1.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_email.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/ic_shopcart.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/menuedge.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/drawable/spinedge.xml" value="0.26614583333333336" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_account.xml" value="0.25" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_add.xml" value="0.176" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_analytics.xml" value="0.2" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_auto.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_barcode.xml" value="0.1" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_barcode_search.xml" value="0.24947916666666667" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_beverage.xml" value="0.25" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_category.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_delete.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_edit.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_elect.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_fash.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_food.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_hom.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_item_recog.xml" value="0.2" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_login.xml" value="0.4" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_mat.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_med.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_scan.xml" value="0.25" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_stat.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/activity_tools.xml" value="0.20742753623188406" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/cat_item.xml" value="0.264" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/recadd.xml" value="0.4" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/layout/recaddmain.xml" value="0.536" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24444444444444444" />
+        <entry key="..\:/Skripsi/finalstobaapp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14322916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

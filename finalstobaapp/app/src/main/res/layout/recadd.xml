@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardBackgroundColor="@color/green"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="8dp"
+    android:layout_margin="16dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        //name
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="7dp"
+            android:text="Name  :"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/nam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="7dp"
+            android:text="palu"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        //amount
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="75dp"
+            android:text="Amount  :"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/amo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="75dp"
+            android:text="18"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        //cat
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="31dp"
+            android:text="Category  :"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/cate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="31dp"
+            android:text="Perkakas"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        //desc
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="52dp"
+            android:text="Description  :"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/des"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="52dp"
+            android:text="palu karet"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        //barcode
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="9dp"
+            android:layout_marginTop="97dp"
+            android:text="Barcode  :"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+        <TextView
+            android:id="@+id/code"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="120dp"
+            android:layout_marginTop="97dp"
+            android:text="1111101"
+            android:fontFamily="@font/esbuildmedium"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        //btn
+
+        <Button
+            android:id="@+id/btnedit"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="251dp"
+            android:layout_marginTop="14dp"
+            android:background="@drawable/update" />
+
+        <Button
+            android:id="@+id/btndelete"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="251dp"
+            android:layout_marginTop="63dp"
+            android:background="@drawable/delete" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
